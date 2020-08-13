@@ -1,0 +1,2 @@
+# Hackintosh-10400-B460M-MORTAR-RX570
+Hackintosh EFI for MSI B460M MORTAR + I5 10400 + RX 570
