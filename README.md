@@ -1,14 +1,24 @@
 # Hackintosh-10400-B460M-MORTAR-RX570
 ## EFI 
-OpenCore: 0.5.9
+OpenCore: 0.6.4
 
-macOS version: 10.5.6
+macOS version: 11.2.2
 
 ##  更新情况
+2021.3.1
++ 精简调整plist和Kexts
++ 优化USB和音频定制，正确识别USB3和TypeC
++ 新增板载2.5G驱动（手头没网线没测试可用性...
++ 新增RadeonBoost提升显卡性能（玄学
++ 更新macOS 11.2.2（Build 20D80）
+
+![](./images/Fig8.png)
+![](./images/Fig9.png)
+
+
 2020.8.10
 + 电压 -0.105V FPU单烤 70℃ -> 56℃
 + CINEBENCH R20 +120
-
 
 
 ## 硬件配置
